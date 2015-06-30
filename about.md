@@ -1,9 +1,9 @@
 ---
 title: About
 permalink: about/
-profile: true
+profile: false
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+My story plus resume, tumblr, instagram, flickr
 
 {% include footer.html %}
