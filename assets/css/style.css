@@ -322,7 +322,7 @@ table {
 th,td {
 	text-align: left;
 	padding-right: 20px;
-	vertical-align: top;
+	vertical-align: middle;
 }
 
 table td,td {
@@ -357,6 +357,16 @@ img {
 	max-width: 100%;
 	border-radius: 3px;
 }
+
+img.displayed {
+	width: 60%;
+	max-width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 
 /* Made with Cactus Badge */
 #badge {

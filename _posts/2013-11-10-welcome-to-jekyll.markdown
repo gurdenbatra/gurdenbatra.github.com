@@ -2,24 +2,68 @@
 title:  "Be Kind"
 date:   2013-11-10 10:18:00
 description: iOS App Prototype
+avatar: "/assets/images/bekindlogo.png"
 ---
+<h2 class="headline">Ideation, Wireframing, Prototyping</h2>
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+<img class="displayed" src="/assets/images/Be Kind/appintro.png" alt="App Intro Image">
 
-Jekyll also offers powerful support for code snippets:
+App intro bit, target audience and goal
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Design principles bit
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+<img class="displayed" src="/assets/images/Be Kind/homeglobal.png" alt="Global Home Screen">
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+<img class="displayed" src="/assets/images/Be Kind/homenearby.png" alt="Nearby Home Screen">
+
+No friends, no stats
+
+<img class="displayed" src="/assets/images/Be Kind/newactivity.png" alt="New Activity Screen">
+
+<img class="displayed" src="/assets/images/Be Kind/confirmtree.png" alt="Confirm Activity Screen - Unfilled">
+
+<img class="displayed" src="/assets/images/Be Kind/confirmtree2.png" alt="Confirm Activity Screen - Filled">
+
+check in UI brief    
+
+<img class="displayed" src="/assets/images/Be Kind/signup2.png" alt="Sign Up Screen - Filled Success">
+
+<img class="displayed" src="/assets/images/Be Kind/signup3.png" alt="Sign Up Screen - Filled Failure">
+
+<img class="displayed" src="/assets/images/Be Kind/login1.png" alt="Login Screen - Unfilled">
+
+<img class="displayed" src="/assets/images/Be Kind/login2.png" alt="Login Screen - Filled failure">
+
+talk about UX, lukeW shoutout
+
+<img class="displayed" src="/assets/images/Be Kind/user.png" alt="User Screen">
+
+<img class="displayed" src="/assets/images/Be Kind/settings.png" alt="Settings Screen">
+
+<img class="displayed" src="/assets/images/Be Kind/usersettings.png" alt="Account Settings Screen">
+
+misc settings
+
+<img class="displayed" src="/assets/images/Be Kind/future.png" alt="Future Concept Screen">
+
+talk about future, next steps
+
+
+inspiration from, resources from, tool used
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
 
 
