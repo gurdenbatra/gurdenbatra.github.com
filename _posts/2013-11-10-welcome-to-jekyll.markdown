@@ -8,15 +8,15 @@ avatar: "/assets/images/bekindlogo.png"
 
 <img class="displayed" src="/assets/images/Be Kind/appintro.png" alt="App Intro Image">
 
-App intro bit, target audience and goal
+An iOS application to promote and inspire positivity through benevolent acts towards people around and the environment. Be Kind is a social network where you can check in a doing good activity and share it with everyone.
 
-Design principles bit
+Design principles behind the app also aim to be kind. The interface and interactions are kept clean and simple. Light green color is used to resonate with nature and good feelings. And light blue color is used to denote tappable links and buttons.
 
 <img class="displayed" src="/assets/images/Be Kind/homeglobal.png" alt="Global Home Screen">
 
 <img class="displayed" src="/assets/images/Be Kind/homenearby.png" alt="Nearby Home Screen">
 
-No friends, no stats
+There is no friends or followers list in the application. Everyone is a friend and is on the common feed which can be filtered by global or nearby. You can love, comment on or share an activity on you feed but the app doesn't display number of loves nor comments, there is no competition. 
 
 <img class="displayed" src="/assets/images/Be Kind/newactivity.png" alt="New Activity Screen">
 
@@ -24,7 +24,7 @@ No friends, no stats
 
 <img class="displayed" src="/assets/images/Be Kind/confirmtree2.png" alt="Confirm Activity Screen - Filled">
 
-check in UI brief    
+The check in screen first thanks you and confirms your activity incase the wrong button was tapped by mistake. The boxes are made big to welcome responses in form of text, picture and a location. Better the story more potential to inspire.
 
 <img class="displayed" src="/assets/images/Be Kind/signup2.png" alt="Sign Up Screen - Filled Success">
 
@@ -34,7 +34,7 @@ check in UI brief
 
 <img class="displayed" src="/assets/images/Be Kind/login2.png" alt="Login Screen - Filled failure">
 
-talk about UX, lukeW shoutout
+Forms have been made more easier and fun to fill than usual. Featuring inline validation and drop down for commonly used email domains(with the option to add a custom one of course). Hat tip to <a href="http://www.lukew.com/" target="_blank" title="Luke's Website">LukeW</a>.
 
 <img class="displayed" src="/assets/images/Be Kind/user.png" alt="User Screen">
 
@@ -42,14 +42,35 @@ talk about UX, lukeW shoutout
 
 <img class="displayed" src="/assets/images/Be Kind/usersettings.png" alt="Account Settings Screen">
 
-misc settings
+Misc settings screens.
+
+##Future Work
 
 <img class="displayed" src="/assets/images/Be Kind/future.png" alt="Future Concept Screen">
 
-talk about future, next steps
+Design is never complete. Next steps-
 
++ More user feedback and testing.
++ Work on animations and transitions.   
+<br/>
 
-inspiration from, resources from, tool used
+New features to work on-  
+
++ Ask for help: You can find friends or volunteers to help you with any activity.
++ Dedicate activity to a cause or person.
++ Badges for special milestones and achievements.     
+<br/>
+
+##References
+Design inspiration from iOS apps-
+
++ <a href="https://path.com" target=_blank" title="Path's website">Path</a>
++ <a href="https://soundtracking.com/" target=_blank" title="Soundtracking's website">SoundTracking</a>
++ <a href="https://www.tumblr.com/dashboard" target=_blank" title="Tumblr's website">Tumblr</a>  
+
+All icons, glyphs and the pretty illustrations are from the free resources offered by the nice community at <a href="http://www.sketchappsources.com" title="Sketch App Sources">Sketch App Sources</a>.
+
+Made using <a href="http://bohemiancoding.com/sketch/" title="Bohemian Coding Website">Sketch</a>.
 
 
 
