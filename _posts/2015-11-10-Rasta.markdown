@@ -1,8 +1,70 @@
 ---
 title:  "Think Rasta"
 date:   2013-11-10 10:18:00
-description: Website Design
+description: Website Architecture & Wireframing
+avatar: "/assets/images/rastalogo.png"
 ---
+<h2 class="headline">Research, Architecture, Wireframing</h2>
+
+intro about project, about Rasta, what they wanted, my role
+
+<img src="/assets/images/Rasta/graph.jpg" alt="Youth Culture Graph">
+
+info about research process      
+
+<img src="/assets/images/Rasta/home1.png" alt="Homepage Wireframe">
+
+<img src="/assets/images/Rasta/home2.png" alt="Homepage Wireframe">
+
+<img src="/assets/images/Rasta/home3.png" alt="Homepage Wireframe">
+
+exploring homepage, chief real estata, design flows form here- consistency
+
+<img src="/assets/images/Rasta/home4.png" alt="Homepage Wireframe">
+
+<img src="/assets/images/Rasta/home5.png" alt="Homepage Wireframe">
+
+feedback, how it got improved and all
+
+<img src="/assets/images/Rasta/work1.png" alt="Work page Wireframe">
+
+<img src="/assets/images/Rasta/work2.png" alt="Work page Wireframe">
+
+<img src="/assets/images/Rasta/culture.png" alt="Culture page Wireframe">
+
+data/content architecture
+
+<img src="/assets/images/Rasta/blog.png" alt="Blog Wireframe">
+
+<img src="/assets/images/Rasta/case.png" alt="Case Study Wireframe">
+
+content
+
+<img src="/assets/images/Rasta/about1.png" alt="About Us page Wireframe">
+
+<img src="/assets/images/Rasta/about2.png" alt="About Us page Wireframe">
+
+<img src="/assets/images/Rasta/connect.png" alt="Connect page Wireframe">
+
+<img src="/assets/images/Rasta/jobs.png" alt="Jobs page Wireframe">
+
+how to reach us, CTA, our rep
+
+<img class="displayed" src="/assets/images/Rasta/mobilehome.png" alt="Mobile Home Wireframe">
+
+<img class="displayed" src="/assets/images/Rasta/mobilemenu1.png" alt="Mobile Nav Menu Wireframe">
+
+<img class="displayed" src="/assets/images/Rasta/mobilemenu2.png" alt="Mobile Nav Menu Wireframe">
+
+talk about responsive shit    
+
+
+steps post wireframes(design with anamika, coder hire and all) 
+
+link to website
+
+lessons learnt
+
 
 
 
