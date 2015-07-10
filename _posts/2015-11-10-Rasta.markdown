@@ -6,40 +6,47 @@ avatar: "/assets/images/rastalogo.png"
 ---
 <h2 class="headline">Research, Architecture, Wireframing</h2>
 
-intro about project, about Rasta, what they wanted, my role
+The project was to craft a website for Rasta to showcase what they are about and the work they do. It was clear that Rasta wasn’t just another design studio and they surely they did not want to portray themselves as one. Rasta is more about **brand strategy**, they help form your brand and things which go around it and help your brand to reach out to youth audience. They also love studying youth culture and wanted to document their observations on the website.
 
+##Research
 <img src="/assets/images/Rasta/graph.jpg" alt="Youth Culture Graph">
 
-info about research process      
+<img src="/assets/images/Rasta/sitemap.jpg" alt="Site Map">
 
+I interviewed the founder and everyone else on the team to get a feel of the company, their goals and their design aesthetic. Then formed flow graphs for youth culture and one for Rasta, to have a connected impression and terminology in hand. I understood the main things to showcase were Rasta’s creative solutions and that they loved and understood the youth culture. So we came up with a site map with the main navigation and the possible options to present under them.
+
+##Homepage
 <img src="/assets/images/Rasta/home1.png" alt="Homepage Wireframe">
 
 <img src="/assets/images/Rasta/home2.png" alt="Homepage Wireframe">
 
 <img src="/assets/images/Rasta/home3.png" alt="Homepage Wireframe">
 
-exploring homepage, chief real estata, design flows form here- consistency
+Next step was the homepage. Being the chief real estate, getting most eyes and getting the first impression of the company. The design of the rest of the website would also flow from the homepage. So we explored a few alternatives and discussed over them.
 
+##Homepage Iteration
 <img src="/assets/images/Rasta/home4.png" alt="Homepage Wireframe">
 
 <img src="/assets/images/Rasta/home5.png" alt="Homepage Wireframe">
 
-feedback, how it got improved and all
+We liked the the blocks layout from the first iteration, it nicely showcased our work and other content. We played with the layout to give it more of a dynamic effect to represent the youth.
 
+##Content Architecture
 <img src="/assets/images/Rasta/work1.png" alt="Work page Wireframe">
 
 <img src="/assets/images/Rasta/work2.png" alt="Work page Wireframe">
 
-<img src="/assets/images/Rasta/culture.png" alt="Culture page Wireframe">
+We decided to keep a simple list of the four main things we do on the Work page and keep the nitty gritties on the case studies for those interested. 
 
-data/content architecture
+<img src="/assets/images/Rasta/culture.png" alt="Culture page Wireframe">
 
 <img src="/assets/images/Rasta/blog.png" alt="Blog Wireframe">
 
 <img src="/assets/images/Rasta/case.png" alt="Case Study Wireframe">
 
-content
+Using the consistent dynamic box layout thorugh different pages.
 
+##About Rasta Architecture
 <img src="/assets/images/Rasta/about1.png" alt="About Us page Wireframe">
 
 <img src="/assets/images/Rasta/about2.png" alt="About Us page Wireframe">
@@ -48,22 +55,27 @@ content
 
 <img src="/assets/images/Rasta/jobs.png" alt="Jobs page Wireframe">
 
-how to reach us, CTA, our rep
 
+##Responsive
 <img class="displayed" src="/assets/images/Rasta/mobilehome.png" alt="Mobile Home Wireframe">
 
 <img class="displayed" src="/assets/images/Rasta/mobilemenu1.png" alt="Mobile Nav Menu Wireframe">
 
 <img class="displayed" src="/assets/images/Rasta/mobilemenu2.png" alt="Mobile Nav Menu Wireframe">
 
-talk about responsive shit    
+All pages were thought out from a responsive perspective from the start. Having the blocks layout, it was easy to make the layout flow into the screen size of the desired device.    
 
+##Next steps
+The lead designer of Rasta and I worked together on the formal designs of the website with the imagery and interactions, using Photoshop. Then we found a freelance web developer who was equally excited about the project and wrote the website in PHP with a custom made CMS mechanism to keep the content updated.
 
-steps post wireframes(design with anamika, coder hire and all) 
+You can see the final website <a href="http://thinkrasta.com" target="_blank" title="Rasta's website">here</a>. [website under construction]
 
-link to website
+##References
+Design inspiration from-
 
-lessons learnt
++ <a href="http://www.wolffolins.com" target="_blank" title="Wolff Olins's website">Wolff Olins</a>
++ <a href="http://niceandserious.com" target="_blank" title="Nice & Serious's website">Nice and Serious</a>
++ <a href="http://www.dazeddigital.com" target="_blank" title="Dazed's website">Dazed</a> 
 
 
 

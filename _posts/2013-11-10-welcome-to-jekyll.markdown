@@ -64,13 +64,13 @@ New features to work on-
 ##References
 Design inspiration from iOS apps-
 
-+ <a href="https://path.com" target=_blank" title="Path's website">Path</a>
-+ <a href="https://soundtracking.com/" target=_blank" title="Soundtracking's website">SoundTracking</a>
-+ <a href="https://www.tumblr.com/dashboard" target=_blank" title="Tumblr's website">Tumblr</a>  
++ <a href="https://path.com" target="_blank" title="Path's website">Path</a>
++ <a href="https://soundtracking.com/" target="_blank" title="Soundtracking's website">SoundTracking</a>
++ <a href="https://www.tumblr.com/dashboard" target="_blank" title="Tumblr's website">Tumblr</a>  
 
-All icons, glyphs and the pretty illustrations are from the free resources offered by the nice community at <a href="http://www.sketchappsources.com" title="Sketch App Sources">Sketch App Sources</a>.
+All icons, glyphs and the pretty illustrations are from the free resources offered by the nice community at <a href="http://www.sketchappsources.com" target="_blank" title="Sketch App Sources">Sketch App Sources</a>.
 
-Made using <a href="http://bohemiancoding.com/sketch/" title="Bohemian Coding Website">Sketch</a>.
+Made using <a href="http://bohemiancoding.com/sketch/" target="_blank" title="Bohemian Coding Website">Sketch</a>.
 
 
 
