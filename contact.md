@@ -3,6 +3,8 @@ title: Contact
 permalink: contact/
 profile: false
 ---
+#Contact
+
 
 Feel free to email me at <a href="mailto:gurden.batra@gmail.com" target="_top" title="Compose an email to me">gurden.batra@gmail.com</a>
 
