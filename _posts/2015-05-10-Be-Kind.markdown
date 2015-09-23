@@ -1,6 +1,6 @@
 ---
 title:  "Be Kind"
-date:   2015-11-10 10:18:00
+date:   2015-08-10 10:18:00
 description: iOS App Prototype
 avatar: "/assets/images/bekindlogo.png"
 url: /Be-Kind/

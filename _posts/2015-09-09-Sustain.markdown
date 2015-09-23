@@ -1,0 +1,19 @@
+---
+title:  "Sustainability in Web Design"
+date:   2015-09-10 10:18:00
+description: (In Progress) Website Design & Code
+avatar: "/assets/images/sustain.jpg"
+url: /Sustain/
+---
+<h2 class="headline">(In Progress Work) Research, Design, Code</h2>
+
+<img src="/assets/images/Sustain/convo.png" alt="Intro Image">
+
+A website to promote better web practices which lead to less server load and hence less CO2 emissions. The storytelling is done through parallax scorlling using <a href="https://github.com/Prinzhorn/skrollr" target="_blank" title="Skrollr's Github page">Skrollr.js</a> where the server and client are having a dialogue.
+
+Working in collaboration with <a href="http://luk.design" target="_blank" title="LUK's homepage">LUK Design.</a>
+
+
+
+
+
