@@ -64,10 +64,17 @@ Using the consistent dynamic box layout thorugh different pages.
 
 <img class="displayed" src="/assets/images/Rasta/mobilemenu2.png" alt="Mobile Nav Menu Wireframe">
 
-All pages were thought out from a responsive perspective from the start. Having the blocks layout, it was easy to make the layout flow into the screen size of the desired device.    
+All pages were thought out from a responsive perspective from the start. Having the blocks layout, it was easy to make the layout flow into the screen size of the desired device.   
 
 ##Next steps
 The lead designer of Rasta and I worked together on the formal designs of the website with the imagery and interactions, using Photoshop. Then we found a freelance web developer who was equally excited about the project and wrote the website in PHP with a custom made CMS mechanism to keep the content updated.
+
+<img src="/assets/images/Rasta/home.jpg" alt="Final Homepage">
+
+<img src="/assets/images/Rasta/work.jpg" alt="Final Workpage">
+
+<img src="/assets/images/Rasta/connect.jpg" alt="Final Connect Page">
+
 
 You can see the final website <a href="http://thinkrasta.com" target="_blank" title="Rasta's website">here</a>. [website under construction]
 

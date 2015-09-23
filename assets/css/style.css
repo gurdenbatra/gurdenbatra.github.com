@@ -55,6 +55,7 @@ body {
 	color: #666;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
+	background-color: #fbfcfc;
 }
 
 h1 {
@@ -113,8 +114,7 @@ nav.main-nav {
 
 	/*max-width: 600px;*/
 	/*width:100%;*/
-	background: #fff;
-	background: rgba(255,255,255,.90);
+	background-color: #fbfcfc;
 	margin: 0 auto;
 	text-align: right;
 	/*position: fixed;*/
@@ -232,7 +232,7 @@ em, i { font-style: italic; }
 }
 
 .post h2 {
-	margin-bottom: 40px;
+	margin-bottom: 10px;
 	  font: 300 24px/1.5 "Helvetica Neue",Helvetica,Arial,sans-serif;
 	  color: #111;
 }
