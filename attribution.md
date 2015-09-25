@@ -12,7 +12,3 @@ profile: false
 <a href="https://github.com/nickbalestra/kactus" target="_blank" title="Original Theme">Theme modified under the MIT license</a>
 
 <a href="https://www.behance.net/gallery/12025813/Pictograms-Giveaway-Reloaded" target="_blank" title="Behance Vector Page">Homepage logo generated with help from</a>
-
-
-
-{% include footer.html %}
