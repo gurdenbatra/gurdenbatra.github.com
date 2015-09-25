@@ -657,6 +657,7 @@ h2.month {
 	.post h2 { font-size:20px; }
 
 	li.footlist { 
-		margin: 1.5%;
+		display: list-item;
+		list-style-type:none;
 	}
 }
