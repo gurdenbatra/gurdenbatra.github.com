@@ -11,4 +11,3 @@ I write on <a href="https://medium.com/@gurdenbatra" target="_blank" title="My M
 
 ### <a href="/assets/images/GurdenBatraResume.pdf" title="Resume in PDF format">View Resume </a>
 
-{% include footer.html %}

@@ -184,6 +184,11 @@ a,
 ul 	{ margin:0; padding:0; }
 li	{ list-style-type:circle; list-style-position:inside; }
 
+li.footlist { 
+		display: inline;
+		margin: 3.5%;
+	}
+
 /* Line Height */
 #post-body, p { line-height:1.7; }
 
@@ -650,4 +655,8 @@ h2.month {
 	.post h2.headline { font-size: 13px; }
 	.post h1 { font-size:24px; }
 	.post h2 { font-size:20px; }
+
+	li.footlist { 
+		margin: 2%;
+	}
 }

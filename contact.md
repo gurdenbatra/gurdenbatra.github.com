@@ -13,5 +13,3 @@ Or give me a call on <a href="tel://1-404-838-8628">+1 (404) 838-8628</a>
 Or tweet me <a href="https://twitter.com/gurdenbatra" target="_blank" title="My Twitter">@gurdenbatra</a>
 
 
-
-{% include footer.html %}
