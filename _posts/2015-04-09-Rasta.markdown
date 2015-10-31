@@ -69,9 +69,6 @@ The lead designer of Rasta and I worked together on the formal designs of the we
 
 <img src="/assets/images/Rasta/connect.jpg" alt="Final Connect Page">
 
-
-You can see the final website <a href="http://thinkrasta.com" target="_blank" title="Rasta's website">here</a>. [website under construction]
-
 ##References
 Design inspiration from-
 
