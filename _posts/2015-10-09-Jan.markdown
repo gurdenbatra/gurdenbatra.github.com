@@ -1,0 +1,19 @@
+---
+title:  "Jan Kuovi Racing Driver"
+date:   2013-10-10 10:18:00
+description: Website Design & Code
+avatar: "/assets/images/meter.png"
+url: /Jan/
+---
+<h2 class="headline">Template, Design, Code</h2>
+
+<img src="/assets/images/Jan/janheroshot.png" alt="Intro Image">
+
+View the website- <b><a href="http://jankuovi.fi/" target="_blank" title="Jan's Website">http://jankuovi.fi/</a></b>
+
+One pager website created for a professional karting racer to share his media and contact information using <a href="http://startbootstrap.com/template-overviews/freelancer/" target="_blank" title="Bootstrap template">bootstrap template</a> and <a href="https://github.com/blueimp/Bootstrap-Image-Gallery" target="_blank" title="Bootstrap Image Gallery">image gallery</a>.
+
+
+
+
+
