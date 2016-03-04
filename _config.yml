@@ -5,7 +5,7 @@ meta_description: "UX Design"
 aboutPage: true
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 
 paginate: 20
 baseurl: /
