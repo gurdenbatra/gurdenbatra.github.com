@@ -5,7 +5,9 @@ meta_description: "UX Design"
 aboutPage: true
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
+
+gems: [jekyll-paginate]
 
 paginate: 20
 baseurl: /
