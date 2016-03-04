@@ -4,7 +4,7 @@ meta_description: "UX Design"
 
 aboutPage: true
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 
 paginate: 20
