@@ -9,5 +9,5 @@ My interest in design spurred during my undergraduate at <a href="http://www.cc.
 
 I write on <a href="https://medium.com/@gurdenbatra" target="_blank" title="My Medium">Medium</a> occasionally. I’ve also always been an avid photographer. You should check out my <a href="https://instagram.com/gurden/" target="_blank" title="My Instagram">Instagram</a> and <a href="https://www.flickr.com/photos/gurden" target="_blank" title="My Flickr">Flickr</a>. And I write poetry and upload some experimental art on my <a href="http://gurden.tumblr.com" target="_blank" title="My Tumblr">Tumblr</a>.
 
-### <a href="/assets/images/GurdenBatraResume.pdf" title="Resume in PDF format">View Resume </a>
+### <a href="http://gurden.xyz/resume/" title="HTMLnResume">View Resume </a>
 
