@@ -13,7 +13,7 @@ class Demo {
     this.move         = true;
     this.amount       = 180;
     this.size         = 45;
-    this.speed        = .05;
+    this.speed        = .03;
     this.spacing      = 3.5;
 
     this.startStats();
