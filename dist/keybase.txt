@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/gurden
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gurden.xyz
+  * I am gurden (https://keybase.io/gurden) on keybase.
+  * I have a public key with fingerprint 0B29 295B 3308 6A2B 91DB  1E52 F1FD 821A EF85 DE12
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204a51b83ced7c297216bd6ad519dad1e71dec88dde3891a54ed74ab44f612afc60a",
+      "fingerprint": "0b29295b33086a2b91db1e52f1fd821aef85de12",
+      "host": "keybase.io",
+      "key_id": "f1fd821aef85de12",
+      "kid": "010168de35b2cdd37c199f26ed1c48d5dbd9c9e7f3ff0fa0e0d892eb9e8f0c791a1c0a",
+      "uid": "ecf2867e3f877b7405e4bb25f27e4119",
+      "username": "gurden"
+    },
+    "service": {
+      "hostname": "gurden.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1517693214,
+  "expire_in": 157680000,
+  "prev": "b41ae4eff330ddf1489f1da7d216718ddbafce1ea2210069d312ceb11fd16fd9",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNrAnicbVJtUFRVGN6lEsRoITBHqKzLx+AMs3PP/dh7L5IGpagEEaEUyWz33nMu
+3oF21/1CQFC+Gx0NZkwixIbVyEZKkhmJoSgBM4WkgRlK2IGIj3IaBzAN0VY7l8kf
+zXT+nDnveZ7nPO/znr6gR3SB+gVfefhc1fiT+v4LR126bPf6Z4sJyQoLifhiIg8t
+bygfIofTnKdCIp4gAUUyIgsknpYR5GRK4ChgkqBJhCwQoAgB4gBEMs9DiGheACLL
+YBwjSgyjmAAlKrKJFIk4QlEtuchus6sWpyYrUQIlsBJNk7xJpCQBQAkgllKAAnkK
+iEjhWYgAhYm7rQ6Ngc1JogMZVSuu4YN52d7/4B/6JoGJx5ZYiZIhpDkZCIJCmRAE
+MsNDFkpQkAXEKbSikIpIIhLyAoUkAfEKKXO4DyAv+3YtyyFZoXgTh2iF5ziJY0gW
+MZJEsQrFIQYAQQM6kN0ivoMwOtdlh8hClMQRuOZWZaTFqvXxn3vj3sIizLPZrU6r
+bM3H9d1Op80Rr/GchTYNWIAk878SZkm1QJwhZriR3aFaLUQ8wEjZqWqagAWcSaAp
+wMQRaK9NtSOzqiFYzsSTeGnvIDeWlBicFoMUBUcPoQIYXlAAFDmIx8oBPEUJjwwB
+JFIUIEmTAGlAyUgCOGhgUqDWqQPtsVixNsA+xVys6VBzLaLTZUdESc+FXY/q9IG6
+FY/5aZ9LF7gy+OGXW9douB8VenYm0XAoQj8bm5He27RrW1+zq7RqVXlzVXrRgMe8
+Y/bFj3+3Td/yvPV+TeutAP3EDTA67hc86Y20JTQaWqwn0q4kdlwPDEtovd4T1vhq
+1uN99dGvHLoktqVJ5UHG6IX8zTND0dkVrQfYv4vEz4nm84k17tCLP54Y7lp7Z9LP
+G/BDm68ls7vOXtdf21M9ZRw5Nf5lpa9m7HZg+/Zr0uCmrhz25P7nUqc8Qf3phsaV
+s9MR1U3mic86QraWPz9XkWCMDDtS+trTIfX75JShhrLL4KD/osxPGxfakpX5zqiP
+lAPf7TD81n++59TlPz2TP3mHX842Lg5EP9N17LQReDpTZ8r8YzeRBQ/aBtfQTReT
+k2XD3W9/pQe7HnC2rPCU7d59b547ffXGwNexHxgyN6xbcbc9YDouQ98wkp767n33
+z5E9bNZI8kHrYnjsXHcvUVmV1N/enSEF3At5b2PO/i07febJT8aSfOwTto3HaoXV
+V+pcRy/1NhzvOlsjfrgwfu/q4TtPDfFfBC1t2/zXaOOWM17LEqKryxx57S+93ZEU
+enN4qfKr4rFP3e4Keqc5z5YsBHOTb1ha1m9YfTss5vvuipiJYX/VnXnkhbStAyln
+rtHf2NcUGDND9/xy0jcv/HHTVqqrXzXfcbw1snwiMaU/6pyuMyllFEzV1UZ4c2LW
+Ho71OEqyX4/7Bwrhxxk=
+=ZvYO
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gurden
+
+==================================================================
