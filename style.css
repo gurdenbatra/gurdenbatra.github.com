@@ -49,5 +49,17 @@ span {
     display:inline-block;
     position: absolute;
     top: 40%;
-    left: calc(50% - 200px);
+    left: calc(50% - 220px);
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .text {
+        font-size: 30px;
+    }
+    .body {
+        top: 30%;
+        left: calc(50% - 250px);
+    }
+
+    
 }
