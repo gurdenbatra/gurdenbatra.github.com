@@ -5,7 +5,8 @@ body {
 .text {
     color: #5dea62;
     font-family: Monaco, monospace;
-    font-size: 24px;
+    font-size: calc(18px + 1.5vw);
+    line-height: calc(1.1em + 0.5vw);
     width: 100%;
     text-align: left;
     animation: 120ms infinite normal glitch;
@@ -48,18 +49,6 @@ span {
 .box {
     display:inline-block;
     position: absolute;
-    top: 40%;
-    left: calc(50% - 220px);
-}
-
-@media (min-width: 320px) and (max-width: 564px) {
-    .text {
-        font-size: 28px;
-    }
-    .body {
-        top: 30%;
-        left: calc(50% - 240px);
-    }
-
-    
+    top: calc(10em + 20vh);
+    left: calc(2em + 10vw);
 }
