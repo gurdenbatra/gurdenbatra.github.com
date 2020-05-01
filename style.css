@@ -52,13 +52,13 @@ span {
     left: calc(50% - 220px);
 }
 
-@media (min-width: 320px) and (max-width: 480px) {
+@media (min-width: 320px) and (max-width: 564px) {
     .text {
-        font-size: 38px;
+        font-size: 28px;
     }
     .body {
         top: 30%;
-        left: calc(50% - 300px);
+        left: calc(50% - 240px);
     }
 
     
