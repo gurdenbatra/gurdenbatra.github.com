@@ -1,0 +1,9 @@
+
+/* TEAM */
+Developer: Gurden Batra
+Contact: gurden.batra@gmail.com
+Site: https://gurden.xyz
+
+
+/* SITE */
+Doctype: HTML5
