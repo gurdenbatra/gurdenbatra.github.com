@@ -1,7 +1,7 @@
 
 /* TEAM */
 Developer: Gurden Batra
-Contact: gurden.batra@gmail.com
+Contact: gurden.batra@proton.me
 Site: https://gurden.xyz
 
 

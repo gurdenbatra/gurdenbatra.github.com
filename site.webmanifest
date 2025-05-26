@@ -1,7 +1,7 @@
 {
   "name": "gurden.xyz - Gurden’s work portfolio",
   "short_name": "gurden.xyz",
-  "start_url": "http://localhost:8080",
+  "start_url": "https://gurden.xyz/",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
