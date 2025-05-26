@@ -293,40 +293,7 @@
   
 
     <url>
-        <loc>https://gurden.xyz//assets/css/global/fonts.css</loc>
-        <lastmod>2024-07-30T16:45:35.598Z</lastmod>
-    </url>
-    
-  
-  
-
-  
-  
-
-    <url>
-        <loc>https://gurden.xyz//assets/css/global/global-styles.css</loc>
-        <lastmod>2024-07-30T16:45:35.599Z</lastmod>
-    </url>
-    
-  
-  
-
-  
-  
-
-    <url>
         <loc>https://gurden.xyz//assets/css/global/reset.css</loc>
-        <lastmod>2024-07-30T16:45:35.599Z</lastmod>
-    </url>
-    
-  
-  
-
-  
-  
-
-    <url>
-        <loc>https://gurden.xyz//assets/css/global/variables.css</loc>
         <lastmod>2024-07-30T16:45:35.599Z</lastmod>
     </url>
     
@@ -471,6 +438,39 @@
     <url>
         <loc>https://gurden.xyz//reach/</loc>
         <lastmod>2025-05-24T15:33:32.386Z</lastmod>
+    </url>
+    
+  
+  
+
+  
+  
+
+    <url>
+        <loc>https://gurden.xyz//assets/css/global/fonts.css</loc>
+        <lastmod>2025-05-26T13:35:47.580Z</lastmod>
+    </url>
+    
+  
+  
+
+  
+  
+
+    <url>
+        <loc>https://gurden.xyz//assets/css/global/global-styles.css</loc>
+        <lastmod>2025-05-26T13:35:47.581Z</lastmod>
+    </url>
+    
+  
+  
+
+  
+  
+
+    <url>
+        <loc>https://gurden.xyz//assets/css/global/variables.css</loc>
+        <lastmod>2025-05-26T13:35:47.581Z</lastmod>
     </url>
     
   
